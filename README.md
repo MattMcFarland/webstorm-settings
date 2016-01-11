@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-- (Hack font)[http://sourcefoundry.org/hack/] needs to be installed on your system
+- [Hack font](http://sourcefoundry.org/hack/) needs to be installed on your system
 
 ### Settings breakdown
 
