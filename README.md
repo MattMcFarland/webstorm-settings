@@ -1,5 +1,9 @@
 # webstorm-settings
 
+### Prerequisites
+
+- (Hack font)[http://sourcefoundry.org/hack/] needs to be installed on your system
+
 ### Settings breakdown
 
 - all.jar - Use to import *all* of the settings, do not use the other `.jar` files if you are using this one.
@@ -7,7 +11,7 @@
 - code-style.jar - Consists of tabbing, spacing, etc.
 - editor-clors.jar - Consists of the syntax highlighting.
 - inspection-profiles.jar - Settings for code warning/error inspections.
-- look-and-feel.jar - ???? 
+- look-and-feel.jar - ????
 
 ### To import settings from a JAR archive
 
